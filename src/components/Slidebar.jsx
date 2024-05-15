@@ -1,6 +1,5 @@
 import React from "react";
 import { assets } from "../assets/assets";
-import { GoHome } from "react-icons/go";
 
 const Slidebar = () => {
   return (
