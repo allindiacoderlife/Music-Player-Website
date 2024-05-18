@@ -1,9 +1,9 @@
 import React from 'react'
 import { BrowserRouter,HashRouter as Router } from 'react-router-dom'
-import Slidebar from '../components/Slidebar'
-import Player from '../components/Player'
-import Display from '../components/Display'
-import DisplayHome from '../components/DisplayHome'
+import Slidebar from './components/Slidebar'
+import Player from './components/Player'
+import Display from './components/Display'
+import DisplayHome from './components/DisplayHome'
 
 const App = () => {
   return (
